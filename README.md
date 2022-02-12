@@ -22,7 +22,8 @@ Pewlett Hackard is a large company with many employees near retirement in severa
 #### Proposed Additions
 ##### Count of Retirees by Department and Title
 While it is good to know the number of people in each role that are retiring, I believe it would be helpful to have that information broken down by department.  I added created a new table adding dept_name unique titles table and then used the query below to create a .csv file that lists the number of people by department by role. The list is ordered so that the departments are alphabetical(ascending) and the titles are ordered descending so that the role with the highest number of retirements is at the top for each department.
-![Number retiring by title](https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Queries/Number_retiring_by_title.png)
+
+![Number retiring by title](https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Queries/unique_titles_by_Dept_count.png)
 https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles_w_dept.csv
 
 ##### Count of Employees by Department and Title who are Elibible for the Mentorship Program
