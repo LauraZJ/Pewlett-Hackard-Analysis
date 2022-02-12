@@ -7,13 +7,13 @@ retiring (by title) and a list of employees eligible for the mentorship program.
 ## RESULTS 
 
 ### Number of Staff Retiring (by title)
-There seems to be a very large number of senior staff retiring but few managers:
+There seems to be a very large number of senior staff retiring but few managers (https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv):
 * There are 25,916 Senior Engineers retiring
 * There are 24,926 Senior Staff retiring
 * There are only 2 managers retiring
 
 ### Number of employees eligible for the mentoring program
-* There are 1549 employees eligible for the mentorship program (the count of employees was queried from the mentorship_eligibility table)
+* There are 1549 employees eligible for the mentorship program (the count of employees was queried from the mentorship_eligibility table) (https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Data/Mentorship_eligibility.csv)
 
 ## SUMMARY
 ### Overall Results
