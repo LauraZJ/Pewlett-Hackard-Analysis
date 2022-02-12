@@ -34,4 +34,4 @@ in specific roles within each department to allow alignment with appropriate men
 https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Data/menrshp_elig_by_dept_title.csv
 
 ######  Why I Chose These Data Views
-As an example, when comparing unique_titles_w_dept.csv and menrshp_elig_by_dept_title.csv we see that there are 79 senior staff in Customer Service who are eligble for the mentorship program and 2819 senior staff who are retiring.  There is ample opportunity to identify mentors in that role and department.
+As an example, if I were in leadership, I would be able to compare unique_titles_w_dept.csv and menrshp_elig_by_dept_title.csv to see that there are 79 senior staff in Customer Service who are eligble for the mentorship program and 2819 senior staff who are retiring.  I would see that there is ample opportunity to identify mentors in that role and department.
