@@ -17,7 +17,7 @@ There seems to be a very large number of senior staff retiring but few managers 
 
 ## SUMMARY
 ### Overall Results
-Pewlett Hackard is a large company with many employees near retirement in several different roles and more than 50,000 of those individuals are in senior positions (Senior Enginners or Senior Staff).  For company continuity, the company has decided to utilize a mentorship program and this analysis has determined that 1549 of employees are eligible to participate in that program. 
+Pewlett Hackard is a large company with many employees (thousands) near retirement in several different roles with more than 50,000 of those individuals in senior positions (Senior Engineers or Senior Staff).  For company continuity, the company has decided to utilize a mentorship program and this analysis has determined that 1549 of employees are eligible to participate in that program. 
 
 #### Proposed Additions
 ##### Count of Retirees by Department and Title
