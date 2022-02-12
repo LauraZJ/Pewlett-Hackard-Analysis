@@ -21,18 +21,15 @@ Pewlett Hackard is a large company with many employees near retirement in severa
 
 #### Proposed Additions
 ##### Count of Retirees by Department and Title
-While it is good to know the number of people in each role that are retiring, I believe it would be helpful
-to have that information broken down by department.  I added created a new table adding dept_name unique titles 
-table and then used the query below to create a .csv file that lists the number of people by department by role.  
-The list is ordered so that the departments are alphabetical(ascending) and the titles are ordered descending 
-so that the role with the highest number of retirements is at the top for each department.
-INPUT PICTURE OF CODE and link to .csv
+While it is good to know the number of people in each role that are retiring, I believe it would be helpful to have that information broken down by department.  I added created a new table adding dept_name unique titles table and then used the query below to create a .csv file that lists the number of people by department by role. The list is ordered so that the departments are alphabetical(ascending) and the titles are ordered descending so that the role with the highest number of retirements is at the top for each department.
+![Number retiring by title](https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Queries/Number_retiring_by_title.png)
+https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles_w_dept.csv
 
 ##### Count of Employees by Department and Title who are Elibible for the Mentorship Program
 We already have the list of employees that are eligible for the mentorship program.  However, I believe there would be important to be able to identify the number of individuals
-in specific roles within each department to allow alignment with appropriate mentors.  With that in mind, I added the department name to the mentorship
-eligibility table and then used the query below to create a .csv file that lists the number of people by department and role.
-This table doesn't provide the names of the individuals but gives numbers.    
+in specific roles within each department to allow alignment with appropriate mentors.  With that in mind, I added the department name to the mentorship eligibility table and then used the query below to create a .csv file that lists the number of people by department and role.  This table doesn't provide the names of the individuals but gives numbers.    
+![number eligible for mentorship program by dept](https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Queries/number_emp_eligible_for_mentor_by_dept.png)
+https://github.com/LauraZJ/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles_w_dept.csv
 
-######  Example of why I Chose These Data Views
+######  Why I Chose These Data Views
 As an example, when comparing unique_titles_w_dept.csv and menrshp_elig_by_dept_title.csv we see that there are 79 senior staff in Customer Service who are eligble for the mentorship program and 2819 senior staff who are retiring.  There is ample opportunity to identify mentors in that role and department.
